@@ -1,1 +1,1 @@
-https://share.streamlit.io/[innayatullaili]/[air-pollution-beijing-dashboard]/main/dashboard/dashboard.py
+https://share.streamlit.io/innayatullaili/air-pollution-beijing-dashboard/main/dashboard/dashboard.py
